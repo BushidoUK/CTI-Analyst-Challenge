@@ -26,7 +26,7 @@
 
 | Host-based IOCs | Network-based IOCs |
 |---|---|
-| 10s of failed login attempts, followed by a single successful login | The attacker connetions originated from residential proxies |
+| 10s of failed login attempts, followed by a single successful login | IPs: Residential Proxies |
 
 ---
 
@@ -48,15 +48,15 @@
 ### Incident 4: JavaScript Malware Detected
 | Incident Description |
 |---|
-| Malware was detected on a user's system launching from  | 
+| The user visited a WordPress blog and downloaded a ZIP file, which contained a malicious JavaScript file that the user executed. Malicious commands were detected by our EDR and the system was automatically quarantined. | 
 
 | Victim Hostname(s) | Username(s) |
 |---|---|
-| ABC | ABC |
+| DAVEJOHN | djohnson |
 
 | Host-based IOCs | Network-based IOCs |
 |---|---|
-| ABC | ABC |
+| Processes: explorer.exe, wscript.exe File: agreement.zip, agreement.js | Domain: Wordpress Site |
 
 ---
 
