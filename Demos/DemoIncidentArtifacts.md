@@ -1,6 +1,8 @@
 ## Demo Incident Artifacts
 
 ### Incident 1: Phishing Email leads to Malware Infection
+- #### `RFI`➡️ "Please tell us more about this malware infection, the adversary's intent, and ways to mitigate this type attack in the future"
+
 | Incident Description |
 |---|
 | A phishing email was sent containing a malicious link that dropped an XLSM file which the user opened an enabled the Excel macros. This launched a malicious DLL that later downloaded and executed another DLL file. The antivirus software says the first DLL was the BazarLoader malware and the second DLL was the IcedID malware. Some reconnaissance activity was also observed inside the network before the malware was blocked. | 
@@ -16,6 +18,8 @@
 ---
 
 ### Incident 2: Password Spraying leads to Account Takeovers
+- #### `RFI`➡️ "Please tell us more about this password spraying attack, the adversary's intent, and ways to mitigate this type attack in the future"
+
 | Incident Description |
 |---|
 | Multiple failed login attempts were observed against our unused Service Desk accounts, but resulted in an authorised successful login. The accounts had the same weak passwords given to them from when they were first setup and nobody was actively using these accounts so the adversary enrolled themselves into our MFA system and gained access to our Sharepoint tenant. We have since blocked their access. | 
@@ -31,6 +35,8 @@
 ---
 
 ### Incident 3: VPN Exploitation leads to Compromised Account
+- #### `RFI`➡️ "Please tell us more about this VPN compromise, the adversary's intent, and ways to mitigate this type attack in the future"
+
 | Incident Description |
 |---|
 | We detected unusual activity in our Active Directory and suspect that our internet-facing Fortinet FortiGuard device was potentially compromised due to an unauthorised actor attempting to authenticate to other devices on the network with the credentials on the device. | 
@@ -46,6 +52,8 @@
 ---
 
 ### Incident 4: JavaScript Malware Detected
+- #### `RFI`➡️ "Please tell us more about this malware infection, the adversary's intent, and ways to mitigate this type attack in the future"
+
 | Incident Description |
 |---|
 | The user visited a WordPress blog and downloaded a ZIP file, which contained a malicious JavaScript file that the user executed. Malicious commands were detected by our EDR and the system was automatically quarantined. | 
@@ -61,6 +69,8 @@
 ---
 
 ### Incident 5: USB Malware Detected
+- #### `RFI`➡️ "Please tell us more about this malware infection, the adversary's intent, and ways to mitigate this type attack in the future"
+
 | Incident Description |
 |---|
 | Malware was detected on a user's system after they plugged in a personal USB device. The user stated that the device was recently used at a print copy store to scan documents requested by HR during their onboarding process. The EDR detected malicious commands and the system was quarantined. | 
