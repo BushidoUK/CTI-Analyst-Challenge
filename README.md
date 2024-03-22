@@ -19,11 +19,15 @@
 
 ### Getting Started
 - Analysts can decide whether they want to begin with proactive CTI challenge or the reactive CTI challenge
+
 - **Proactive CTI Challenge:**
   - To begin the proactive CTI challenge, analysts need to review the `Proactive CTI Diagram`, the `Demo Stakeholders`, and the `Intelligence Sources`.
   - Analysts then need to follow the steps laid out in the diagram to think about stakeholder PIRs and then review the intelligence sources.
-  - CTI Incident Reports then need to be written by the analysts to meet the PIRs of their chosen stakeholder. 
+  - CTI Incident Reports then need to be written by the analysts to meet the PIRs of their chosen stakeholder.
+ 
 - **Reactive CTI Challenge:**
   - To begin the reactive CTI challenge, analysts need to review the `Reactive CTI Diagram`, the `Demo Stakeholders`, and the `Demon Incident Artifacts`.
   - Analysts then need to follow the steps laid out in the diagram to think about the stakeholder's RFIs and then review the incident artifacts.
   - A reponse to the RFI then needs to be written by the analysts to fulfil the RFI made by their chosen stakeholder.
+  - While reviewing the artifacts, analysts need to provide context about the threat, such as the level of danger it poses to the target organisations.
+  - It is also advisable to provide potential Courses of Action (CoAs) to support requesting stakeholders while they are investigating incidents.
