@@ -3,6 +3,10 @@
 - The repository contains several resources to get started (see below).
 - Analysts need to review them and peform tasks to complete and fulfil their demo client's priority intelligence requirements.
 
+---
+
+### Resources
+
 | Resource | Description | Usage |
 |---|---|---|
 | [Proactive CTI Diagram](https://github.com/BushidoUK/CTI-Analyst-Challenge/blob/main/Proactive%20CTI%20Diagram.png) | A diagram explaining the process involved in taking intelligence sources and satisfying stakeholder priority intelligence requirements (PIRs). |  Use this as a guide to understand the order of tasks you need to perform in a real-world scenario when working in a CTI team. |
@@ -10,3 +14,16 @@
 | [Demo Stakeholders](https://github.com/BushidoUK/CTI-Analyst-Challenge/blob/main/DemoStakeholders.md) | A list of fictional organisations that analysts are to use to practice fulfilling their PIRs using the `Intelligence Sources` and their RFIs using the `Demo Incident Artifacts` provided below. | Imagine that these organisations are your clients or the company that work for. Your job as an analyst is to protect these entities and help them defend from emerging threats. |
 | [Intelligence Sources](https://github.com/BushidoUK/CTI-Analyst-Challenge/blob/main/IntelligenceSources.md) | A collection of threat reports and articles that need to be checked for relevence for their chosen organisation(s). | Analysts need to scan through, understand, and extract the most important information from the threat reports and articles to provide actionable threat intelligence. Follow the `Proactive CTI Diagram` steps. |
 | [Demo Incident Artifacts](https://github.com/BushidoUK/CTI-Analyst-Challenge/blob/main/DemoIncidentArtifacts.md) | A collection of Indicators and Compromise (IOCs) taken from real attacks but have been provided to simulate an RFI that a real-world stakeholder (such as a SOC or DFIR team) provided the CTI team for additional context and recommendations. | Analysts need to triage, research, and assess the IOCs, artifacts, and incident details and provide a response to the stakeholder that support their actions while handling the incident. Follow the `Reactive CTI Diagram` steps. |
+
+--- 
+
+### Getting Started
+- Analysts can decide whether they want to begin with proactive CTI challenge or the reactive CTI challenge
+- **Proactive CTI Challenge:**
+  - To begin the proactive CTI challenge, analysts need to review the `Proactive CTI Diagram`, the `Demo Stakeholders`, and the `Intelligence Sources`.
+  - Analysts then need to follow the steps laid out in the diagram to think about stakeholder PIRs and then review the intelligence sources.
+  - CTI Incident Reports then need to be written by the analysts to meet the PIRs of their chosen stakeholder. 
+- **Reactive CTI Challenge:**
+  - To begin the reactive CTI challenge, analysts need to review the `Reactive CTI Diagram`, the `Demo Stakeholders`, and the `Demon Incident Artifacts`.
+  - Analysts then need to follow the steps laid out in the diagram to think about the stakeholder's RFIs and then review the incident artifacts.
+  - A reponse to the RFI then needs to be written by the analysts to fulfil the RFI made by their chosen stakeholder.
