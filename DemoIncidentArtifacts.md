@@ -30,18 +30,18 @@
 
 ---
 
-### Incident 3: VPN Exploitation leads to Web Shell
+### Incident 3: VPN Exploitation leads to Compromised Account
 | Incident Description |
 |---|
-| ABC | 
+| We detected unusual activity in our Active Directory and suspect that our internet-facing Fortinet FortiGuard device was potentially compromised due to an unauthorised actor attempting to authenticate to other devices on the network with the credentials on the device. | 
 
 | Victim Hostname(s) | Username(s) |
 |---|---|
-| ABC | ABC |
+| FORTIGUARD003, DC01 | FORTIADMIN, DA01 |
 
 | Host-based IOCs | Network-based IOCs |
 |---|---|
-| ABC | ABC |
+| Processes: cmd.exe, rundll32.exe, comsvcs.exe, ntds.util Files: NTDS.dit, frp.exe, update.bat  | IPs: SOHO network edge devices |
 
 ---
 
@@ -56,19 +56,19 @@
 
 | Host-based IOCs | Network-based IOCs |
 |---|---|
-| Processes: explorer.exe, wscript.exe File: agreement.zip, agreement.js | Domain: Wordpress Site |
+| Processes: explorer.exe, wscript.exe File: agreement.zip, agreement.js | Domain: Hijacked Wordpress Site |
 
 ---
 
 ### Incident 5: USB Malware Detected
 | Incident Description |
 |---|
-| ABC | 
+| Malware was detected on a user's system after they plugged in a personal USB device. The user stated that the device was recently used at a print copy store to scan documents requested by HR during their onboarding process. The EDR detected malicious commands and the system was quarantined. | 
 
 | Victim Hostname(s) | Username(s) |
 |---|---|
-| ABC | ABC |
+| CPBACON | chrispbacon |
 
 | Host-based IOCs | Network-based IOCs |
 |---|---|
-| ABC | ABC |
+| Processes: cmd.exe, msiexec.exe FilePath: D:\\USBCHRIS.lnk  | IPs: Compromised QNAP NAS system |
