@@ -15,6 +15,7 @@
 | [Intelligence Sources](https://github.com/BushidoUK/CTI-Analyst-Challenge/blob/main/IntelligenceSources.md) | A collection of threat reports and articles that need to be checked for relevence for their chosen organisation(s). | Analysts need to scan through, understand, and extract the most important information from the threat reports and articles to provide actionable threat intelligence. Follow the `Proactive CTI Diagram` steps. |
 | [Demo Incident Artifacts](https://github.com/BushidoUK/CTI-Analyst-Challenge/blob/main/DemoIncidentArtifacts.md) | A collection of Indicators and Compromise (IOCs) taken from real attacks but have been provided to simulate an RFI that a real-world stakeholder (such as a SOC or DFIR team) provided the CTI team for additional context and recommendations. | Analysts need to triage, research, and assess the IOCs, artifacts, and incident details and provide a response to the stakeholder that support their actions while handling the incident. Follow the `Reactive CTI Diagram` steps. |
 | [CTI Incident Report Template](https://github.com/BushidoUK/CTI-Analyst-Challenge/blob/main/CTI_IncidentReport_Template.md) | A basic report template to help write CTI Incident Reports. | Use the template as a guide to help perform proactive CTI activities. |
+| [RFI Response Template](https://github.com/BushidoUK/CTI-Analyst-Challenge/blob/main/RFI_Response_Template.md) | A basic report template to help write RFI Response reports. | Use the template as a guide to help perform reactive CTI activities. |
 
 --- 
 
@@ -33,3 +34,4 @@
   - A reponse to the RFI then needs to be written by the analysts to fulfil the RFI made by their chosen stakeholder.
   - While reviewing the artifacts, analysts need to provide context about the threat, such as the level of danger it poses to the target organisations.
   - It is also advisable to provide potential Courses of Action (CoAs) to support requesting stakeholders while they are investigating incidents.
+  - Analysts can use the `RFI Response Template` provided.
