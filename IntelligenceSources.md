@@ -4,12 +4,12 @@
 - Source: https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/
 - Source: https://msrc.microsoft.com/blog/2024/03/update-on-microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/
 
-### Intelligence 2: Cloudflare breached by an unknown adversary
+### Intelligence 2: Cloudflare breached by an unknown adversary using Okta credentials
 - Source: https://blog.cloudflare.com/thanksgiving-2023-security-incident
 - Source: https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise
 - Source: https://sec.okta.com/harfiles
 
-### Intelligence 3: Boeing breached by LockBit
+### Intelligence 3: Boeing breached by LockBit using new Citrix vulnerability
 - Source: https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a
 - Source: https://www.mandiant.com/resources/blog/session-hijacking-citrix-cve-2023-4966
 
