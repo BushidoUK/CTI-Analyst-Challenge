@@ -10,7 +10,7 @@
 - Provide your analysis of the incident following your investigation
 - Map incident observables to their respective Cyber Kill Chain stages and corresponding MITRE ATT&CK TTPs
 
-| Kill Chain Stage | Observables | ATT&CK TTPs
+| Kill Chain Stage | Observable(s) | ATT&CK TTP(s)
 |---|---|---|
 | | | |
 
@@ -23,6 +23,7 @@
 - Are there any other potential adversaries that could also be responsible?
 - If you have enough information, create a `Diamond Model of Intrusion Analysis` to help visualise your findings.
 
+---
 ### Courses of Action (CoAs)
 - Required Actions
 - Recommendations
