@@ -27,3 +27,8 @@
 - Source: https://www.3cx.com/blog/news/desktopapp-security-alert/
 - Source: https://www.3cx.com/blog/news/mandiant-security-update2/
 - Source: https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise
+
+### Intelligence 6: EquiLend faces ransomware attack
+- Source: https://equilend.com/press-releases/equilend-cyber-security-incident/
+- Source: https://equilend.com/press-releases/equilend-cyber-security-incident-frequently-asked-questions/
+- Source: https://www.bankinfosecurity.com/equilend-continues-system-restoration-post-ransomware-attack-a-24267
