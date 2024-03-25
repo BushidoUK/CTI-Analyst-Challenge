@@ -6,7 +6,7 @@
 --- 
 
 ### Getting Started
-- Analysts can decide whether they want to begin with proactive CTI challenge or the reactive CTI challenge
+- Analysts can decide whether they want to begin with the proactive CTI challenge or the reactive CTI challenge
 
 - **Proactive CTI Challenge:**
   - To begin the proactive CTI challenge, analysts need to review the `Proactive CTI Diagram`, the `Demo Stakeholders`, and the `Intelligence Sources`.
