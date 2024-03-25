@@ -22,6 +22,11 @@
   - It is also advisable to provide potential Courses of Action (CoAs) to support requesting stakeholders while they are investigating incidents.
   - Analysts can use the `RFI Response Template` provided.
 
+- **Additional Notes:**
+  - The way your reports are written may also depend on the type of organisation you are a CTI analyst for.
+  - Analysts who work for a vendor with many clients may frame their reports differently than in-house CTI teams that work full time for the same single organisation.
+  - For this challenge, it is recommended to write the reports in the format you are used to or want to get better at.
+
 ---
 
 ### Resources
