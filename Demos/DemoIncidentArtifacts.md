@@ -1,7 +1,7 @@
 ## Demo Incident Artifacts
 
 ### Incident 1: Phishing Email leads to Malware Infection
-- #### `RFI`➡️ "Please tell us more about this malware infection, the adversary's intent, and ways to mitigate this type attack in the future"
+- #### `RFI`➡️ "Please tell us more about this phishing attack, the adversary's intent, and ways to mitigate this type attack in the future"
 
 | Incident Description |
 |---|
