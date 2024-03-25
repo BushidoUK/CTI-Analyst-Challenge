@@ -60,7 +60,7 @@
 
 | Victim Hostname(s) | Username(s) |
 |---|---|
-| DAVEJOHN | djohnson |
+| DWAYNEJOHN | djohnson |
 
 | Host-based IOCs | Network-based IOCs |
 |---|---|
