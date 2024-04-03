@@ -32,3 +32,6 @@
 - Source: https://equilend.com/press-releases/equilend-cyber-security-incident/
 - Source: https://equilend.com/press-releases/equilend-cyber-security-incident-frequently-asked-questions/
 - Source: https://www.bankinfosecurity.com/equilend-continues-system-restoration-post-ransomware-attack-a-24267
+
+### Intelligence 7: OneNote malspam leads to Nokoyawa ransomware attack
+- Source: https://thedfirreport.com/2024/04/01/from-onenote-to-ransomnote-an-ice-cold-intrusion/
