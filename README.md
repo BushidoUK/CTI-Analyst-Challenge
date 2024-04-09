@@ -1,7 +1,7 @@
 # CTI Analyst Challenge
 - This repository contains instructions and resources for an intelligence analysis challenge
 - It was created to test cyber threat intelligence (CTI) analysts looking to practice performing proactive and reactive CTI tasks.
-- CTI analysts need to review them and peform tasks to complete and fulfil their demo client's priority intelligence requirements (PIRs) and requests for intelligence (RFIs).
+- CTI analysts need to review them and perform tasks to complete and fulfil their demo client's priority intelligence requirements (PIRs) and requests for intelligence (RFIs).
 
 --- 
 
