@@ -1,3 +1,5 @@
+![CTI_AC](https://github.com/BushidoUK/CTI-Analyst-Challenge/assets/59974887/35fbbc70-38e7-48c6-90b5-ecb02c08216f)
+
 # CTI Analyst Challenge
 - This repository contains instructions and resources for an intelligence analysis challenge
 - It was created to test cyber threat intelligence (CTI) analysts looking to practice performing proactive and reactive CTI tasks.
